@@ -8,7 +8,7 @@ and Hadelin de Ponteves https://www.udemy.com/course/machinelearning/#instructor
 
 A step-by-step course into the World of Machine Learning.
 
-It is structured the following way:
+It is structured as following :
 
 Part 1 - Data Preprocessing
 
